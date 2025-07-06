@@ -1,5 +1,7 @@
 [![I'm Elder](header.png)](header.png)
 
+<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ro-elder" target="_blank">Follow on LinkedIn</a>
+
 Hello, I'm Elder, a Software Engineering student at Jala University and a full-stack developer currently focused on web development. I'm working on **Graphyr**, my first major project: an online editor for creating interactive and customizable data dashboards.
 
 You can access the repository link below
