@@ -1,6 +1,9 @@
 [![I'm Elder](header.png)](header.png)
 
-<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ro-elder" target="_blank">Follow on LinkedIn</a>
+[![LinkedIn](https://img.shields.io/badge/Follow-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ro-elder)
+[![LinkedIn](https://img.shields.io/badge/Me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ro-elder)
+[![LinkedIn](https://img.shields.io/badge/On-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ro-elder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ro-elder)
 
 Hello, I'm Elder, a Software Engineering student at Jala University and a full-stack developer currently focused on web development. I'm working on **Graphyr**, my first major project: an online editor for creating interactive and customizable data dashboards.
 
