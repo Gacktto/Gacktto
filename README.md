@@ -18,6 +18,6 @@ You can access the repository link below
 | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 
-![Elder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gacktto&theme=dark&bg_color=00000000&show_icons=true&include_all_commits=true&rank_icon=github)
+![Elder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gacktto&theme=dark&bg_color=00000000&show_icons=true&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gacktto&theme=dark&bg_color=00000000&langs_count=20&layout=compact)
