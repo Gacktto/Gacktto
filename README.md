@@ -19,6 +19,4 @@ You can access the repository link below
 
 ![Elder's Stats](https://github-readme-stats.vercel.app/api?username=Gacktto&theme=dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=00000000)
 
-![Elder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gacktto&theme=dark&hide_border=true)
-
 ![Elder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gacktto&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=00000000)
