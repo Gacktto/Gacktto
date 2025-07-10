@@ -17,7 +17,8 @@ You can access the repository link below
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
+![Elder's Stats](https://github-readme-stats.vercel.app/api?username=Gacktto&theme=dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=00000000)
 
-![Elder's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gacktto&theme=dark&bg_color=00000000&show_icons=true&rank_icon=github&include_all_commits=true)
+![Elder's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gacktto&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gacktto&theme=dark&bg_color=00000000&langs_count=20&layout=compact)
+![Elder's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gacktto&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=00000000)
