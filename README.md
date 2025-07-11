@@ -9,7 +9,7 @@ Hello, I'm Elder, a Software Engineering student at Jala University and a full-s
 
 You can access the repository link below
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gacktto&repo=Graphyr&theme=dark&bg_color=00000000&)](https://github.com/Gacktto/Graphyr)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gacktto&repo=Graphyr&theme=dark&bg_color=00000000&hide_border=true)](https://github.com/Gacktto/Graphyr)
 
 **My Tech Stack**
 
